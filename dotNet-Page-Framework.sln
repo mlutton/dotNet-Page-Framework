@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "page-framework", "page-framework\page-framework.csproj", "{43F85155-DCBB-43C8-87FD-358D7B55F8B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Features", "Sample.Features\Sample.Features.csproj", "{7C14568A-7596-4C54-8890-9F5543176DF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F6FCD0E5-9AE5-4AFD-8C33-7F23729B315A}"
+	ProjectSection(SolutionItems) = preProject
+		dotNet-Page-Framework.vsmdi = dotNet-Page-Framework.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Mvc.App", "Sample.Mvc.App\Sample.Mvc.App.csproj", "{F794F056-FAA7-408D-B95B-1A2FA5F074D0}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = dotNet-Page-Framework.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F85155-DCBB-43C8-87FD-358D7B55F8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F85155-DCBB-43C8-87FD-358D7B55F8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F85155-DCBB-43C8-87FD-358D7B55F8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F85155-DCBB-43C8-87FD-358D7B55F8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C14568A-7596-4C54-8890-9F5543176DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C14568A-7596-4C54-8890-9F5543176DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C14568A-7596-4C54-8890-9F5543176DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C14568A-7596-4C54-8890-9F5543176DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F794F056-FAA7-408D-B95B-1A2FA5F074D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F794F056-FAA7-408D-B95B-1A2FA5F074D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F794F056-FAA7-408D-B95B-1A2FA5F074D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F794F056-FAA7-408D-B95B-1A2FA5F074D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

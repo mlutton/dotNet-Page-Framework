@@ -1,0 +1,11 @@
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\page-framework.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\page-framework.pdb
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\nunit.framework.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\nunit.mocks.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\pnunit.framework.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\WatiN.Core.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\nunit.framework.xml
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\bin\Debug\WatiN.Core.xml
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\obj\Debug\page-framework.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\page-framework\obj\Debug\page-framework.pdb

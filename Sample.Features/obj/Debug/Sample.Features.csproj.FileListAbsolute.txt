@@ -1,0 +1,15 @@
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\Sample.Features.dll.config
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\Sample.Features.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\Sample.Features.pdb
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\nunit.framework.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\nunit.mocks.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\pnunit.framework.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\nunit.framework.xml
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\obj\Debug\Sample.Features.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\obj\Debug\Sample.Features.pdb
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\page-framework.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\WatiN.Core.dll
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\page-framework.pdb
+C:\Users\mlutton\documents\visual studio 2010\Projects\dotNet-Page-Framework\Sample.Features\bin\Debug\WatiN.Core.xml
